@@ -15,7 +15,7 @@
         title: "Hotel Booking Project", 
         description: "Angular-based hotel booking system", 
         link: "https://hotels-roan.vercel.app/",
-        tech: ["angular","css","javascript"]
+        tech: ["angular","css","javascript","csharp"]
     }
 ];
 
