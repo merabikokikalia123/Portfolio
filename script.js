@@ -6,8 +6,8 @@
         tech: ["csharp","angular","css","javascript"]
     },
     { 
-        title: "Football Coaching Panel", 
-        description: "Football Club Page", 
+        title: "Football Club Page", 
+        description: "JS/HTML/CSS", 
         link: "https://fcorbi.ge/#",
         tech: ["javascript","css",]
     },
