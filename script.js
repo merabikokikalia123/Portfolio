@@ -54,7 +54,7 @@ projects.forEach(proj => {
         const name = document.getElementById('name').value;
         const email = document.getElementById('email').value;
         const message = document.getElementById('message').value;
-        const phoneNumber = "+995551234567"; // ჩაანაცვლე შენს ნომერზე
+        const phoneNumber = "+995551009844"; 
         const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(`სახელი: ${name}\nელფოსტა: ${email}\nმესიჯი: ${message}`)}`;
         window.open(url,"_blank");
         e.target.reset();
